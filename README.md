@@ -27,5 +27,6 @@ I think I won't be able to become a regular coder.
 [![twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com/kredwi)
 [![discord](https://img.shields.io/badge/Discord-black?logo=discord)](https://discord.gg/gN4MWwQzMQ)
 [![telegram](https://img.shields.io/badge/Telegram-black?logo=telegram)](https://t.me/Kredwi_official)
+[![gmail](https://img.shields.io/badge/Contact-black?logo=gmail)](mailto:kredwicraft@gmail.com)
 
 [![footer](https://github.com/Kredwi/kredwi/blob/main/assets/footer.png)](https://twitch.tv/kredwi)

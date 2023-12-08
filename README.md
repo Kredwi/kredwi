@@ -22,7 +22,7 @@ I think I won't be able to become a regular coder.
 ## PC
 
 ![pc](https://img.shields.io/badge/Windows_10_HOME-0071C5?style=for-the-badge&logo=windows&logoColor=white)
-![intel](https://img.shields.io/badge/Intel-PENTIUM_N3670-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![intel](https://img.shields.io/badge/Intel-PENTIUM_N3710-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![intel](https://img.shields.io/badge/Intel-HD_GRAPHICS_405-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 ## Follow me

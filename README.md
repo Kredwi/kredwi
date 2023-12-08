@@ -8,16 +8,22 @@ I think I won't be able to become a regular coder.
 
 ## Language
 
-![html](https://img.shields.io/badge/HTML-grey?logo=html)
-![css](https://img.shields.io/badge/CSS-grey?logo=css)
+![html](https://img.shields.io/badge/HTML-grey?logo=html5)
+![css](https://img.shields.io/badge/CSS-grey?logo=css3)
+![sass](https://img.shields.io/badge/Sass-grey?logo=sass)
 ![javascript](https://img.shields.io/badge/JavaScript-grey?logo=javascript)
 ![lua](https://img.shields.io/badge/Lua-grey?logo=lua&logoColor=blue)
 ![mysql](https://img.shields.io/badge/SQL-grey?logo=mysql)
-![nodedotjs](https://img.shields.io/badge/NPM-grey?logo=nodedotjs)
 
 ## Frameworks
 
 ![react](https://img.shields.io/badge/React-black?logo=react)
+
+## PC
+
+![pc](https://img.shields.io/badge/Windows_10_HOME-0071C5?style=for-the-badge&logo=windows&logoColor=white)
+![intel](https://img.shields.io/badge/Intel-PENTIUM_N3670-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![intel](https://img.shields.io/badge/Intel-HD_GRAPHICS_405-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 ## Follow me
 [![youtube](https://img.shields.io/badge/Kredwi-black?logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCH-f_szwD2msRXhwMmePeiA)

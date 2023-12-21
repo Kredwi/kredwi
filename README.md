@@ -15,10 +15,6 @@ I think I won't be able to become a regular coder.
 ![lua](https://img.shields.io/badge/Lua-grey?logo=lua&logoColor=blue)
 ![mysql](https://img.shields.io/badge/SQL-grey?logo=mysql)
 
-## Frameworks
-
-![react](https://img.shields.io/badge/React-black?logo=react)
-
 ## PC
 
 ![pc](https://img.shields.io/badge/Windows_10_HOME-0071C5?style=for-the-badge&logo=windows&logoColor=white)

@@ -3,7 +3,10 @@
 # Welcome to Kredwi profile 👋
 
 ## About me
-Hello i'm **Kredwi** - **[Streamer](https://twitch.tv/kredwi)**, **[YouTuber](https://www.youtube.com/channel/UCH-f_szwD2msRXhwMmePeiA)** I live in the Russian Federation. I started to get interested in programming when **I created my first server in Minecraft**.
+Hello i'm **Kredwi** - **[Streamer](https://twitch.tv/kredwi)**, **[YouTuber](https://www.youtube.com/channel/UCH-f_szwD2msRXhwMmePeiA)** who lives in the Russian Federation.
+I started to get interested in programming when I created my first Minecraft server (KredwiCraft). Of course, he was not successful, but I gained experience.
+Now I am studying programming for personal use, I will never work as a programmer and I am unlikely to get even a penny for this case. But I like this business, this feeling when you did a project for a month, and launched the project and everything works as you want it is extremely pleasant and I like it. I hope I can find someone who will help me in this matter.
+Yes, my projects are very weak, but I want to do something together with someone, well, I don't have any friends who will help me with the code.
 I think I won't be able to become a regular coder.
 
 ## Language

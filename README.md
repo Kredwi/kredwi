@@ -20,8 +20,8 @@ I think I won't be able to become a regular coder.
 ![lua](https://img.shields.io/badge/Lua-grey?logo=lua&logoColor=blue)
 ![mysql](https://img.shields.io/badge/SQL-grey?logo=mysql)
 
-
-[![Most Used Languages]([https://discord.c99.nl/widget/theme-4/649601722557399040.png)](https://twitch.tv/kredwi](https://github-readme-stats.vercel.app/api/top-langs/?username=kredwi&theme=nord&hide_border=true&bg_color=00000000&border_radius=6&title_color=000000))
+### Most Used Languages
+[![MUL]([[https://discord.c99.nl/widget/theme-4/649601722557399040.png](https://github-readme-stats.vercel.app/api/top-langs/?username=kredwi&theme=nord&hide_border=true&bg_color=00000000&border_radius=6&title_color=000000))](https://twitch.tv/kredwi])
 
 ## PC
 

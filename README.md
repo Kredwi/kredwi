@@ -1,5 +1,7 @@
 [![header](https://github.com/Kredwi/kredwi/blob/main/assets/header.png)](https://www.youtube.com/channel/UCH-f_szwD2msRXhwMmePeiA)
 
+[![discordStatus](https://discord.c99.nl/widget/theme-4/649601722557399040.png)](https://twitch.tv/kredwi)
+
 # Welcome to Kredwi profile 👋
 
 ## About me

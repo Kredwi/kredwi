@@ -36,4 +36,4 @@ I think I won't be able to become a regular coder.
 [![telegram](https://img.shields.io/badge/Telegram-black?logo=telegram)](https://t.me/Kredwi_official)
 [![gmail](https://img.shields.io/badge/Contact-black?logo=gmail)](mailto:kredwicraft@gmail.com)
 
-[![footer](https://github.com/Kredwi/kredwi/blob/main/assets/footer.png)](https://twitch.tv/kredwi)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kredwi&hide_bg=true)

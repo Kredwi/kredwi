@@ -28,7 +28,7 @@ I think I won't be able to become a regular coder.
 
 ## Follow me
 [![youtube](https://img.shields.io/badge/Kredwi-black?logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCH-f_szwD2msRXhwMmePeiA)
-[![youtube](https://img.shields.io/badge/Kredwi4019-black?logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCH-f_szwD2msRXhwMmePeiA)
+[![youtube](https://img.shields.io/badge/Kredwi4019-black?logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCzeYhKXpZG_u6J-R2exWHuQ)
 [![twitch](https://img.shields.io/badge/Twitch-black?logo=twitch)](https://twitch.tv/kredwi)
 [![instagram](https://img.shields.io/badge/Instagram-black?logo=instagram)](https://instagram.com/kredwi)
 [![twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com/kredwi)

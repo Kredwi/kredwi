@@ -16,6 +16,7 @@ I think I won't be able to become a regular coder.
 ![html](https://img.shields.io/badge/HTML-grey?logo=html5)
 ![css](https://img.shields.io/badge/CSS-grey?logo=css3)
 ![sass](https://img.shields.io/badge/Sass-grey?logo=sass)
+![java](https://img.shields.io/badge/Java-grey?logo=java)
 ![javascript](https://img.shields.io/badge/JavaScript-grey?logo=javascript)
 ![lua](https://img.shields.io/badge/Lua-grey?logo=lua&logoColor=blue)
 ![mysql](https://img.shields.io/badge/SQL-grey?logo=mysql)

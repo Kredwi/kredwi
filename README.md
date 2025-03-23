@@ -3,7 +3,7 @@
 # Welcome to Kredwi profile 👋
 
 [![discordStatus](https://discord.c99.nl/widget/theme-4/649601722557399040.png)](https://twitch.tv/kredwi)
-### asd
+
 ## About me
 Hello i'm **Kredwi** - **[Streamer](https://twitch.tv/kredwi)**, **[YouTuber](https://www.youtube.com/channel/UCH-f_szwD2msRXhwMmePeiA)** who lives in the Russian Federation.
 I started to get interested in programming when I created my first Minecraft server (KredwiCraft). Of course, he was not successful, but I gained experience.
@@ -32,7 +32,7 @@ I think I won't be able to become a regular coder.
 [![youtube](https://img.shields.io/badge/Kredwi4019-black?logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCzeYhKXpZG_u6J-R2exWHuQ)
 [![twitch](https://img.shields.io/badge/Twitch-black?logo=twitch)](https://twitch.tv/kredwi)
 [![instagram](https://img.shields.io/badge/Instagram-black?logo=instagram)](https://instagram.com/kredwi)
-[![twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com/kredwi)
+[![twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://twitter.com/kredwio)
 [![discord](https://img.shields.io/badge/Discord-black?logo=discord)](https://discord.gg/gN4MWwQzMQ)
 [![telegram](https://img.shields.io/badge/Telegram-black?logo=telegram)](https://t.me/Kredwi_official)
 [![gmail](https://img.shields.io/badge/Contact-black?logo=gmail)](mailto:kredwicraft@gmail.com)

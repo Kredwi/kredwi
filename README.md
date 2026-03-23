@@ -1,2 +1,3 @@
-# У МЕНЯ СЛОМАЛСЯ НОУТБУК
+# Kredwi
+Working with brain
 
